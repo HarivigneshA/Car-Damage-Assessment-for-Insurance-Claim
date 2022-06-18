@@ -1,8 +1,8 @@
 # Car-Damage-Assessment-for-Insurance-Claim
 
 ## Objective:
-Use computer vision and deep learning techniques to accurately classify vehicle damage to facilitate
-claims triage by training convolution neural networks.
+Using computer vision and deep learning techniques to accurately classify vehicle damage to facilitate
+claims triage and assess damage severity by training convolution neural networks.
 
 
 
